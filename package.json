@@ -9,6 +9,7 @@
   },
   "scripts": {
     "cm":"node app.js",
-    "nc":"node demo.js"
+    "nc":"node demo.js",
+    "baisc":"node app2.js"
   }
 }
